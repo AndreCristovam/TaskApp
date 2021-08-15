@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">OneDayTask</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_all">Todas Tarefas</string>
+    <string name="menu_today">Tarefas para hoje</string>
+    <string name="menu_completed">Tarefas concluidas</string>
+    <string name="menu_expired">Tarefas expiradas</string>
+
+    <string name="confirm">Confirmação</string>
+
+    <string name="cancel">Cancelar</string>
+    <string name="remove_task">Remover Tafera</string>
+    <string name="want_to_remove">Deseja remover a Tarefa?</string>
+    <string name="remove">Remover</string>
+    <string name="successfully_removed">Tarefa removida com sucesso.</string>
+
+    <string name="hint_title">Titulo</string>
+    <string name="hint_description">Descrição</string>
+    <string name="hint_date">Data</string>
+    <string name="hint_hour">Hora</string>
+    <string name="btn_save">Salvar</string>
+    <string name="label_you_dont_have_tasks">Você não possui tarefas para fazer!</string>
+    <string name="successfully">Tarefa salva com sucesso!</string>
+    <string name="failed_to_save">Falha ao salvar a tarefa.</string>
+    <string name="label_you_dont_have_tasks_complete">Você não possui tarefas completas!</string>
+    <string name="label_you_dont_have_today">Você não possui tarefas para hoje!</string>
+    <string name="one_day_task">One Day Task</string>
+    <string name="fill_all_fields">Preencha todos os campos.</string>
+    
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="expired_tasks">Tarefas Expiradas</string>
+
+
+</resources>

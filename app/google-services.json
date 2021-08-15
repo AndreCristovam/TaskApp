@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "847945852502",
+    "project_id": "one-day-task",
+    "storage_bucket": "one-day-task.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:847945852502:android:cf0b5401422112211bbdf7",
+        "android_client_info": {
+          "package_name": "com.andrecristovam.daytask"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "847945852502-q8g82268nr2q4afmlol8q09vd3913tcm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfh9vRl779vqwVrzULQ8Z0S_8ko-SArB4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "847945852502-q8g82268nr2q4afmlol8q09vd3913tcm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

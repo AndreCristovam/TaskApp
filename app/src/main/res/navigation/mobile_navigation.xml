@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_all">
+
+    <fragment
+        android:id="@+id/nav_all"
+        android:name="com.andrecristovam.daytask.ui.fragment.all.AllTaskFragment"
+        android:label="@string/menu_all"
+        tools:layout="@layout/fragment_all_tasks" />
+
+    <fragment
+        android:id="@+id/nav_today"
+        android:name="com.andrecristovam.daytask.ui.fragment.today.TodayFragment"
+        android:label="@string/menu_today"
+        tools:layout="@layout/fragment_today" />
+
+    <fragment
+        android:id="@+id/nav_completed"
+        android:name="com.andrecristovam.daytask.ui.fragment.complete.CompleteFragment"
+        android:label="@string/menu_completed"
+        tools:layout="@layout/fragment_complete" />
+
+</navigation>
