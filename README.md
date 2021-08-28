@@ -17,6 +17,7 @@ As funcionalidades do aplicativo inclui:
 * Android
 * MVVM
 * Room
+* Corountines
 * FireBase
 * Lottie
 
