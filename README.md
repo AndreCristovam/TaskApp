@@ -1,7 +1,7 @@
 # OneDayTask
-Aplicativo criando para o projeto final do BootCamp Santander da Digital Innovation One - DIO
+Aplicativo de Tarefas.
 
-Um App desenvolvido com a proposta final do Bootcamp Santander mobile - DIO, utilizando a biblioteca Room para persistência de dados e Lottie para animações. 
+Um App desenvolvido utilizando a biblioteca Room para persistência de dados e Lottie para animações. 
 O aplicativo armazena tarefas do dia a dia com finalidade de auxiliar o usuário a se organizar. <br/><br/>
 Link para [download](https://github.com/AndreCristovam/TaskApp/raw/master/app/release/app-release.apk) do app. <br/><br/>
 As funcionalidades do aplicativo inclui:
